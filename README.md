@@ -11,7 +11,7 @@ WhatsAuth menghadirkan solusi untuk :
 ## Persiapan WhatsApp Gateway
 Tahapan ini dilakukan terlebih dahulu sebelum melakukan pendaftaran, hal-hal yang harus dipersiapkan antara lain:
 1. Siapkan Nomor WhatsApp yang akan dijadikan Gateway API
-2. Siapkan WebHook sebagai penerima pesan masuk, jika anda ingin melakukan test apa saja yang dikirim ke webhook bisa menggunakan layanan pipedream.com. Untuk [Contoh Kode WebHook](./webhook)
+2. Siapkan WebHook sebagai penerima pesan masuk, jika anda ingin melakukan test apa saja yang dikirim ke webhook bisa menggunakan layanan pipedream.com. Untuk [Contoh Kode WebHook](/webhook)
 
 ## Pendaftaran WhatsApp Gateway Melalui Interface Web
 Proses nya tinggal buka [wa.my.id](https://wa.my.id) dengan urutan :
